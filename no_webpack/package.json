@@ -9,9 +9,6 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "live-server": "^1.2.1"
-  },
   "devDependencies": {
     "http-server": "^14.1.0"
   }
